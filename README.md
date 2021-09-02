@@ -1,4 +1,6 @@
-﻿### 本地二维码识别器
+﻿# React native 本地二维码识别器
+
+## react-native-local-barcode-recognizer
 
 ## 安装:
 ```bash
