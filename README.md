@@ -1,6 +1,6 @@
 ﻿### 本地二维码识别器
 
-##Install:
+## 安装:
 ```bash
 #install:
 npm install git+https://github.com/du6688/react-native-local-barcode-recognizer.git
