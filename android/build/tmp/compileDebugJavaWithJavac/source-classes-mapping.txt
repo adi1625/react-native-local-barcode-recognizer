@@ -1,0 +1,7 @@
+cn/jystudio/local/barcode/recognizer/LocalBarcodeRecognizerPackage.java
+ cn.jystudio.local.barcode.recognizer.LocalBarcodeRecognizerPackage
+cn/jystudio/local/barcode/recognizer/BuildConfig.java
+ cn.jystudio.local.barcode.recognizer.BuildConfig
+cn/jystudio/local/barcode/recognizer/LocalBarcodeRecognizerModule.java
+ cn.jystudio.local.barcode.recognizer.LocalBarcodeRecognizerModule
+ cn.jystudio.local.barcode.recognizer.LocalBarcodeRecognizerModule$1

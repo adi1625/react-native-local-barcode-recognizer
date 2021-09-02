@@ -1,0 +1,62 @@
+{
+  "_from": "react-native-local-barcode-recognizer",
+  "_id": "react-native-local-barcode-recognizer@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-19b9Q5buH7tUibCOZl/6fBOeVAQcJE0co72ZE53dvBIjralt7jbyju5JkF53OEIX8y9gjitPskpPBb5gJ5MZWA==",
+  "_location": "/react-native-local-barcode-recognizer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-local-barcode-recognizer",
+    "name": "react-native-local-barcode-recognizer",
+    "escapedName": "react-native-local-barcode-recognizer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-local-barcode-recognizer/-/react-native-local-barcode-recognizer-0.0.2.tgz",
+  "_shasum": "e59716623d8a851705637fe241cf749ea186119c",
+  "_spec": "react-native-local-barcode-recognizer",
+  "_where": "C:\\Users\\Administrator\\Desktop\\chat\\MyChatApp",
+  "author": {
+    "name": "Janus J K Lu",
+    "email": "januslo6211@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/januslo/react-native-local-barcode-recognizer/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "deprecated": false,
+  "description": "The plugin to recognize the barcode from local image for React Native.",
+  "homepage": "https://github.com/januslo/react-native-local-barcode-recognizer#readme",
+  "keywords": [
+    "react-native",
+    "barcode",
+    "qrcodde",
+    "recognizes",
+    "local",
+    "image"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-local-barcode-recognizer",
+  "peerDependencies": {
+    "react": ">=16.3.1",
+    "react-native": ">=0.55.4"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/januslo/react-native-local-barcode-recognizer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
