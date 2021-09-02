@@ -26,12 +26,9 @@ console.log(result);
 ```
 
 ## 说明:
-#
 修改源码文件，修复二维码识别率过低的问题，添加了ts类型
 
 优化方法参照 [文章](https://blog.csdn.net/sinat_31231955/article/details/88074422)
-
-#
 
 ## API
 | 方法 | 参数 |
